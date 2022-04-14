@@ -14,6 +14,7 @@ For this analysis, I will use Pandas to change the "tripduration" column from an
 Below are the results for length of bikes checked out, number of bike trips for each hour of each day of the week, and bike trips for user/gender use each day. 
 
 Click below for interactive results:
+
 https://public.tableau.com/views/NYCCitiBikeStory_16499685322930/NYCCitiBike?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 ### Results: Visualizations
