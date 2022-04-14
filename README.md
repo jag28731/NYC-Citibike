@@ -6,9 +6,9 @@ There is still some more work to be done to convince investors that a bike-shari
 ### Purpose
 For this analysis, I will use Pandas to change the "tripduration" column from an integer to a datetime datatype. Then, using the converted datatype, I will create a set of visualizations to:
 
-  Show the length of time that bikes are checked out for all riders and genders
-  Show the number of bike trips for all riders and genders for each hour of each day of the week
-  Show the number of bike trips for each type of user and gender for each day of the week.  
+  Show the length of time that bikes are checked out for all riders and genders,
+  show the number of bike trips for all riders and genders for each hour of each day of the week,
+  show the number of bike trips for each type of user and gender for each day of the week.  
 
 ## NYC Citibike Results
 Below are the results for length of bikes checked out, number of bike trips for each hour of each day of the week, and bike trips for user/gender use each day. 
