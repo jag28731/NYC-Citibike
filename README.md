@@ -50,3 +50,5 @@ https://public.tableau.com/views/NYCCitiBikeStory_16499685322930/NYCCitiBike?:la
   
     
 - Visualization Recommendations:
+-   A chart showing checked out bikes during different weather forecasts. If there is a medium to high rain percentage, will the bikers still check out bikes?
+-   A chart showing checked out bikes during different seasons of the year. Are bikers more likely to bike during the summer months or winter months?  
