@@ -17,14 +17,32 @@ Click below for interactive results:
 
 https://public.tableau.com/views/NYCCitiBikeStory_16499685322930/NYCCitiBike?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-### Results: Visualizations
-![1]()
-![2]()
-![3]()
-![4]()
-![5]()
-![6]()
-![7]()
+### Basic Information
+![1](https://github.com/jag28731/NYC-Citibike/blob/main/Visualization/Basic%20Info.PNG)
+
+### Checkout Time for Users
+![2](https://github.com/jag28731/NYC-Citibike/blob/main/Visualization/checkout.PNG)
+
+### Checkout Time per Gender
+![3](https://github.com/jag28731/NYC-Citibike/blob/main/Visualization/checkout%20gender.PNG)
+
+### Trips by Weekday per Hour
+![4](https://github.com/jag28731/NYC-Citibike/blob/main/Visualization/trips%20per%20hour.PNG)
+
+### Trips by Gender (Weekday per Hour)
+![5](https://github.com/jag28731/NYC-Citibike/blob/main/Visualization/trips%20gender%20hour.PNG)
+
+### User Trips by Gender by Weekday
+![6](https://github.com/jag28731/NYC-Citibike/blob/main/Visualization/user%20trips%20gender.PNG)
+
+### Bike Utilization
+![7](https://github.com/jag28731/NYC-Citibike/blob/main/Visualization/bike%20utilization.PNG)
+
+### Top Starting Locations
+![8](https://github.com/jag28731/NYC-Citibike/blob/main/Visualization/starting.PNG)
+
+### Top Ending Locations
+![9](https://github.com/jag28731/NYC-Citibike/blob/main/Visualization/ending.PNG)
 
 ## NYC Citibike Summary
 
