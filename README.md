@@ -15,7 +15,7 @@ Below are the results for length of bikes checked out, number of bike trips for 
 
 Click below for interactive results:
 
-https://public.tableau.com/views/NYCCitiBikeStory_16499685322930/NYCCitiBike?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+[Link to Dashboard](https://public.tableau.com/views/NYCCitiBikeStory_16499685322930/NYCCitiBike?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ### Basic Information
 ![1](https://github.com/jag28731/NYC-Citibike/blob/main/Visualization/Basic%20Info.PNG)
