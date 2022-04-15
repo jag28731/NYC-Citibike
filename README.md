@@ -46,7 +46,6 @@ https://public.tableau.com/views/NYCCitiBikeStory_16499685322930/NYCCitiBike?:la
 
 ## NYC Citibike Summary
 
-- Summary:
   Analyzing data is important for all businesses to maximize their profits.  Visually charting the analysis is an easy way for owners/managers to determine the best practices for their business. In the business of bikes, it is important to know the ins and outs of bike rentals. With constant use, the bikes will need maintenance to keep them peforming at their tip top shape. Using the charted analysis, the owner can plan for when the best time for maintenance and worst time would be. Knowing the top starting locations would be beneficial so that the business could provide bike availablity for rental at those locations. Knowing the top end locations could assist in proper pick up of bikes. 
     
 - Visualization Recommendations:
